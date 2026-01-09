@@ -1,20 +1,12 @@
 <h1 align="center">Hi 👋, I'm Han Yeojin</h1>
 <h3 align="center">✨ A passionate Frontend Developer ✨</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/hyj0317">
-        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hyj0317"/>
-      </a>
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyj0317&layout=compact&theme=github_dark&cache_seconds=86400"
-      />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://solved.ac/hyj0317">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj0317"/>
+  </a>
+</p>
 
 <br><br>
 
@@ -31,7 +23,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>
 </p>
 
----
 
 <h4 align="center">Skills</h4>
 
