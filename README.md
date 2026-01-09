@@ -1,8 +1,22 @@
 <h1 align="center">Hi 👋, I'm Han Yeojin</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">✨ A passionate Frontend Developer ✨</h3>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyj0317)](https://solved.ac/hyj0317)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/hyj0317">
+        <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=hyj0317"/>
+      </a>
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyj0317&layout=compact&theme=github_dark&cache_seconds=86400"
+      />
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
@@ -61,7 +75,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/>
 </p>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> </p>
 
 
 
